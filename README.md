@@ -2,8 +2,7 @@
 
 ## Installation du package visual c++ 2015 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+http://fr.wikipedia.org/wiki/Visual_C++
 
 
 Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
