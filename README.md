@@ -39,3 +39,5 @@ Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à ut
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbend.png)
+
