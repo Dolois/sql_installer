@@ -1,6 +1,6 @@
 # Procédure d'installation de mySQL Workbend 6.3.9 
 
-[alt-text](https://github.com/Dolois/sql_installer/edit/master/visual-c++ 2015.jpg)
+![alt-text](https://github.com/Dolois/sql_installer/edit/master/visual-c++ 2015.jpg)
 
 Si visual c++ 2015 manquant lors de la première tantative d'installation de mySQL Workbend
 
