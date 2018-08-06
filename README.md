@@ -8,6 +8,29 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ### https://www.01net.com/telecharger/windows/Utilitaire/dll_librairies/fiches/135282.html
 
-##
+## Installation de mySQL Workbend 6.3.9 (64 bits)
+
+Un outil fort pratique pour administrer et suivre les performances de vos bases de données MySQL.
+
+Ses nombreuses fonctionnalités d'édition et de sauvegarde sont des atouts indéniables. 
+
+Développé par Oracle, MySQL Workbench est un logiciel qui vous permettra de gérer et d'administrer 
+des bases de données MySQL, et ce, via une interface graphique.
+
+Il vous sera ainsi facile de visualiser, de modéliser et d'éditer vos bases de données. 
+
+Vous pourrez aussi créer et exécuter des requêtes SQL grâce à l'éditeur intégré.
+
+Ce dernier fournit la coloration syntaxique, la complétion automatique du code ainsi que la sauvegarde 
+de blocs de code aussi appelés snippets.
+
+MySQL Workbench se distingue par deux fonctionnalités majeures. 
+
+D'une part, un panneau rassemble tous les indicateurs en temps réel relatifs à votre base de données 
+dont les connexions courantes, la charge du serveur ou encore la consommation de la mémoire.
+
+D'autre part, il vous sera possible de sauvegarder et restaurer l'ensemble de vos bases de données.
+
+Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à utiliser.
 
   
