@@ -4,9 +4,9 @@ Si visual c++ 2015 manquant lors de la première tantative d'installation de myS
 
 ## Installation du package visual c++ 2015 
 
-<p>Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
+Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
 pour les langages de programmation C et C++ et intégrant différents outils pour développer, 
-compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des bibliothèques comme les MFC.</p>
+compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des bibliothèques comme les MFC.
 
 ### https://www.01net.com/telecharger/windows/Utilitaire/dll_librairies/fiches/135282.html
 
@@ -36,5 +36,29 @@ D'autre part, il vous sera possible de sauvegarder et restaurer l'ensemble de vo
 Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à utiliser.
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
+
+
+# hello world
+
+you can write text [with links](http://example.com) inline or [link references][1].
+
+* one _thing_ has *em*phasis
+* two __things__ are **bold**
+
+[1]: http://example.com
+
+---
+
+hello world
+===========
+
+<this_is inline="xml"></this_is>
+
+> markdown is so cool
+
+    so are code segments
+
+1. one thing (yeah!)
+2. two thing `i can write code`, and `more` wipee!
 
   
