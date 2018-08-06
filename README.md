@@ -1,13 +1,12 @@
 # Procédure d'installation de mySQL Workbend 6.3.9
-__________________________________________________
+
+Si visual c++ 2015 manquant lors de la première tantative d'installation de mySQL Workbend
 
 ## Installation du package visual c++ 2015 
 
-
-
-Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
+<p>Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
 pour les langages de programmation C et C++ et intégrant différents outils pour développer, 
-compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des bibliothèques comme les MFC.
+compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des bibliothèques comme les MFC.</p>
 
 ### https://www.01net.com/telecharger/windows/Utilitaire/dll_librairies/fiches/135282.html
 
