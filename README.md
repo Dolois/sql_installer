@@ -1,4 +1,4 @@
-# Procédure d'installation de mySQL Workbend 6.3.9
+# Procédure d'installation de mySQL Workbend 6.3.9 !https://www.bing.com/images/search?view=detailV2&ccid=5%2bJLNbrs&id=DF1CFA92EFCD673CB4672C8F9BF254DEBABED39A&thid=OIP.5-JLNbrscOc6jvQCt31HcwHaFr&mediaurl=http%3a%2f%2fwww.ibasoglu.com%2fwp-content%2fuploads%2f2015%2f07%2fvisual_csharp_logo1.png&exph=230&expw=300&q=logo+visual+c%2b%2b+2015&simid=608014771435929650&selectedIndex=13&qpvt=logo+visual+c%2b%2b+2015&ajaxhist=0
 
 Si visual c++ 2015 manquant lors de la première tantative d'installation de mySQL Workbend
 
@@ -37,26 +37,3 @@ Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à ut
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
-
-# hello world
-
-you can write text [with links](http://example.com) inline or [link references][1].
-
-* one _thing_ has *em*phasis
-* two __things__ are **bold**
-
-[1]: http://example.com
-
----
-
-hello world
-===========
-
-<this_is inline="xml"></this_is>
-
-> markdown is so cool
-
-    so are code segments
-
-1. one thing (yeah!)
-2. two thing `i can write code`, and `more` wipee!
