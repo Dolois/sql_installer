@@ -1,6 +1,11 @@
-# Procédure d'installation de mySQL et Workbend
+# Procédure d'installation de mySQL Workbend 6.3.9
 
 ## Installation du package visual c++ 2015 
+
+inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 
 Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
 pour les langages de programmation C et C++ et intégrant différents outils pour développer, 
