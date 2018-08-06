@@ -1,4 +1,4 @@
- Procédure d'installation de mySQL Workbend 6.3.9
+# Procédure d'installation de mySQL Workbend 6.3.9
 
 Si visual c++ 2015 manquant lors de la première tantative d'installation de mySQL Workbend
 
