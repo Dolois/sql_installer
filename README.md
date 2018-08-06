@@ -10,7 +10,7 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ### https://www.01net.com/telecharger/windows/Utilitaire/dll_librairies/fiches/135282.html
 
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B%202015.jpg)
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B%202015.jpg "Logo Visual C++ 2015")
 
 ## Installation de mySQL Workbend 6.3.9 (64 bits)
 
@@ -39,5 +39,5 @@ Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à ut
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbend.jpg)
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbend.jpg "Logo mySQL Workbend")
 
