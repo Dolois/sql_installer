@@ -2,7 +2,7 @@
 
 # Procédure d'installation de mySQL Workbend 6.3.9
 
-Si visual c++ 2015 manquant lors de la première tentative d'installation de mySQL Workbend
+Si visual c++ 2015 manquant lors de la première tentative d'installation de mySQL Workbench
 
 ## Installation du package visual c++ 2015
 
@@ -14,7 +14,7 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B%202015.jpg "Logo Visual C++ 2015")
 
-## Installation de mySQL Workbend 6.3.9 (64 bits)
+## Installation de mySQL Workbench 6.3.9 (64 bits)
 
 Un outil fort pratique pour administrer et suivre les performances de vos bases de données MySQL.
 
