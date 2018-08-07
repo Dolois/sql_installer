@@ -43,7 +43,7 @@ Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à ut
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbend.jpg "Logo mySQL Workbend")
 
-# Démarrage de l'application mySQL Workbend
+# Démarrage de l'application mySQL Workbench
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Menu_mySQL_Workbend.JPG "Menu mySQL Workbend")
 
