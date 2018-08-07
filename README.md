@@ -12,7 +12,7 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ### https://www.01net.com/telecharger/windows/Utilitaire/dll_librairies/fiches/135282.html
 
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B%202015.jpg "Logo Visual C++ 2015")
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B2015.jpg "Logo Visual C++ 2015")
 
 ## Installation de mySQL Workbench 6.3.9 (64 bits)
 
