@@ -2,7 +2,7 @@
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/MySQL%20Community%20Server.png "Logo MySQL Community Server")
 
-## 1) Télécharger et Installer MySQL Community Server
+## 1. Télécharger et Installer MySQL Community Server
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Install%20MySQL%20Community%20Server.JPG)
 
 ### https://dev.mysql.com/downloads/windows/installer/5.7.html
@@ -10,9 +10,9 @@
 ## Procédure d'installation de mySQL Workbend 6.3.9 sous Windows 10
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
 
-Si visual c++ 2015 manquant lors de la première tentative d'installation de mySQL Workbench
+Si visual c++ 2015 est manquant lors de la première tentative d'installation de mySQL Workbench, alors 
 
-## 2) Télécharger et Installer le package visual c++ 2015
+## 2. Télécharger et Installer le package visual c++ 2015
 
 Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
 pour les langages de programmation C et C++ et intégrant différents outils pour développer, 
@@ -22,7 +22,7 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B2015.jpg "Logo Visual C++ 2015")
 
-## 3) Télécharger et Installer mySQL Workbench 6.3.9 (64 bits)
+## 3. Télécharger et Installer mySQL Workbench 6.3.9 (64 bits)
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
