@@ -1,11 +1,8 @@
 ## Procédure d'installation de MySQL Community Server sous Windows 10
 
-1. [Télécharger le fichier d'installation]
-2. [Installer le programme]
-
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/MySQL%20Community%20Server.png "Logo MySQL Community Server")
 
-## Installation de MySQL Community Server
+## 1) Télécharger et Installer MySQL Community Server
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Install%20MySQL%20Community%20Server.JPG)
 
 ### https://dev.mysql.com/downloads/windows/installer/5.7.html
@@ -15,7 +12,7 @@
 
 Si visual c++ 2015 manquant lors de la première tentative d'installation de mySQL Workbench
 
-## Installation du package visual c++ 2015
+## 2) Télécharger et Installer le package visual c++ 2015
 
 Visual C++ est un environnement de développement intégré pour Windows, conçu par Microsoft 
 pour les langages de programmation C et C++ et intégrant différents outils pour développer, 
@@ -25,7 +22,9 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B2015.jpg "Logo Visual C++ 2015")
 
-## Installation de mySQL Workbench 6.3.9 (64 bits)
+## 3) Télécharger et Installer mySQL Workbench 6.3.9 (64 bits)
+
+### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
 Un outil fort pratique pour administrer et suivre les performances de vos bases de données MySQL.
 
@@ -49,8 +48,6 @@ dont les connexions courantes, la charge du serveur ou encore la consommation de
 D'autre part, il vous sera possible de sauvegarder et restaurer l'ensemble de vos bases de données.
 
 Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à utiliser.
-
-### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
 # Démarrage de l'application mySQL Workbench
 
