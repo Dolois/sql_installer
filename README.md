@@ -1,6 +1,7 @@
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/logo%20Markdown.jpg "Logo Markdown")
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/Menu_mySQL_Workbench.JPG "Menu mySQL Workbench")
 
-# Procédure d'installation de mySQL Workbend 6.3.9 sous Windows 10
+# Procédure d'installation de mySQL Workbend 6.3.9 
+#               sous Windows 10
 
 Si visual c++ 2015 manquant lors de la première tentative d'installation de mySQL Workbench
 
