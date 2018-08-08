@@ -1,4 +1,4 @@
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/Menu_mySQL_Workbench.JPG "Menu mySQL Workbench")
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
 
 # Procédure d'installation de mySQL Workbend 6.3.9 
 #               sous Windows 10
@@ -41,8 +41,6 @@ D'autre part, il vous sera possible de sauvegarder et restaurer l'ensemble de vo
 Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à utiliser.
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
-
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
 
 # Démarrage de l'application mySQL Workbench
 
