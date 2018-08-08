@@ -13,7 +13,7 @@
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
 
-Si visual c++ 2015 est manquant lors de la première tentative d'installation de mySQL Workbench, alors 
+<b>Si visual c++ 2015 est manquant lors de la première tentative d'installation de mySQL Workbench, alors</b> 
 
 ## 2. Télécharger et Installer le package visual c++ 2015
 
