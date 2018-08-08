@@ -52,6 +52,8 @@ D'autre part, il vous sera possible de sauvegarder et restaurer l'ensemble de vo
 
 Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à utiliser.
 
+----------------------------------
+
 # 4. Démarrage de l'application mySQL Workbench
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Menu_mySQL_Workbench.JPG "Menu mySQL Workbench")
