@@ -9,7 +9,7 @@
 
 ----------------------------
 
-## Procédure d'installation de mySQL Workbend 6.3.9 sous Windows 10
+## Procédure d'installation de MySQL Workbend 6.3.9 sous Windows 10
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
 
@@ -25,7 +25,7 @@ compiler, déboguer un programme en C++ s'exécutant sur Windows, ainsi que des 
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/visual-c%2B%2B2015.jpg "Logo Visual C++ 2015")
 
-## 3. Télécharger et Installer mySQL Workbench 6.3.9 (64 bits)
+## 3. Télécharger et Installer MySQL Workbench 6.3.9 (64 bits)
 
 ### https://www.clubic.com/telecharger-fiche430839-mysql-workbench.html
 
@@ -54,7 +54,7 @@ Enfin, ce logiciel gratuit dispose d'une interface conviviale et agréable à ut
 
 ----------------------------------
 
-# 4. Démarrage de l'application mySQL Workbench
+# 4. Démarrage de l'application MySQL Workbench
 
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Menu_mySQL_Workbench.JPG "Menu mySQL Workbench")
 
