@@ -1,8 +1,9 @@
 ## Procédure d'installation de MySQL Community Server sous Windows 10
-![alt-text](https://github.com/Dolois/sql_installer/blob/master/MySQL%20Community%20Server.png "Logo MySQL Community Server")
 
-1. [Télécharger le fichier d'installation](#title1)
-2. [Installer le programme](#title2)
+1. [Télécharger le fichier d'installation]
+2. [Installer le programme]
+
+![alt-text](https://github.com/Dolois/sql_installer/blob/master/MySQL%20Community%20Server.png "Logo MySQL Community Server")
 
 ## Installation de MySQL Community Server
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/Install%20MySQL%20Community%20Server.JPG)
