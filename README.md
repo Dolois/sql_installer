@@ -1,5 +1,9 @@
-## procédure d'installatnio de MySQL Community Server sous Windows 10
+## Procédure d'installation de MySQL Community Server sous Windows 10
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/MySQL%20Community%20Server.png "Logo MySQL Community Server")
+
+### https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+
 
 ## Procédure d'installation de mySQL Workbend 6.3.9 sous Windows 10
 ![alt-text](https://github.com/Dolois/sql_installer/blob/master/mySQL%20Workbench.jpg "Logo mySQL Workbench")
